@@ -1,13 +1,13 @@
 #!/bin/bash
 #Wifi-Jammer v1.0
-#Coded by:D@rk_Synt@x
-#Instagram: its_.error._
+#Coded by:MR:QURBAN
+#Instagram: ..........
 #Tool to Jamm Wifi with colourful Outfit
 
 #------------------------------------------------------#
-# Author                 D@rk_Synt@x                   #
-# Instagram              its_.error._                  #
-# Github                https://github.com/DarkSyntax7 #
+# Author                MR:QURBAN                      #
+# Instagram              .............                 #
+# Github             https://github.com/newm73776-lgtm #
 #      Follow Me On Instagram!!                        #
 #------------------------------------------------------#
 
@@ -91,7 +91,7 @@ clear
 
 toilet -f big -F border "Wifi_Jammer" | lolcat
 
-echo "        [ BY: D@rk_Synt@x | Instagram: its_.error._ | v1.0 ]" | pv -qL 40 | lolcat
+echo "        [ BY: MR:QURBAN| Instagram: ....... | v1.0 ]" | pv -qL 40 | lolcat
 
 printf "\n"
 
@@ -217,7 +217,7 @@ echo "[!]Note:You can type 'sudo airmon-ng stop (network_interface name)mon' to 
 
 printf "\n"
 
-echo -e "                             [ BY: D@rk_Synt@x | Instagram: its_.error._ | v1.0 ]\n" | pv -qL 20 | lolcat
+echo -e "                             [ BY: MR:QURBAN | Instagram: ........ | v1.0 ]\n" | pv -qL 20 | lolcat
 
 printf "......................................................................................................................" | pv -qL 30 | lolcat
 
