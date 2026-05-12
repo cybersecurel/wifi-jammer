@@ -20,7 +20,7 @@ trap 'exit 130' INT
 #### Start! ####
 ################
 
-echo -e "\033[1;91m\n[!]Tool Created By D@rk_Synt@x !!! \n\033[1;m"
+echo -e "\033[1;91m\n[!]Tool Created By MR:QURBAN !!! \n\033[1;m"
 
 read -rsn1 -p"[!]Press any key to continue....";echo
 
@@ -232,9 +232,9 @@ main
 stop
 
 #------------------------------------------------------#
-# Author                 D@rk_Synt@x                   #
-# Instagram              its_.error._                  #
-# Github                https://github.com/DarkSyntax7 #
+# Author                MR:QURBAN                      #
+# Instagram             .............                  #
+# Github                .............                  #
 #      Follow Me On Instagram!!                        #
 #------------------------------------------------------#
 
