@@ -57,7 +57,7 @@ software to test person or company without **WRITTEN PERMISSION** from them.
 ## Clone
 
 ```
-git clone https://github.com/newm73776-lgtm/Wifi-Jammer
+git clone https://github.com/cybersecurel/wifi-jammer
 ```
 ## Running
 - Dependencies will be automatically installed.
