@@ -9,17 +9,9 @@
 <p align="center">
   Tool to Jam Full WiFi Network Near-You!
 </p>
-<p align="center">
-  [ BY: D@rk_Synt@x | Instagram: its_.error._ | v1.0 ]
-</p>
 
-<p align="center">
-  <a href="https://github.com/DarkSyntax7"><img title=Open Sourse Love src="https://badges.frapsoft.com/os/v2/open-source.png?v=103" ></a>
-  <a href="https://github.com/DarkSyntax7"><img title=Version1.0 src="https://img.shields.io/badge/version-1.0-<COLOR>.svg" ></a>
-  <a href="https://github.com/DarkSyntax7"><img title=GPL Licence src="https://img.shields.io/badge/License-GPLv3-blue.svg" ></a>
-  <a href=""><img title=SupportedOS src="https://img.shields.io/badge/Supported OS-linux-red.svg" ></a>
-  <a href="https://github.com/DarkSyntax7"><img title=Bash Shell src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg" ></a>
-</p>
+
+
 
   ## DISCLAIMER
   
@@ -65,12 +57,12 @@ software to test person or company without **WRITTEN PERMISSION** from them.
 ## Clone
 
 ```
-git clone https://github.com/DarkSyntax7/Wifi-Jammer
+git clone https://github.com/newm73776-lgtm/Wifi-Jammer
 ```
 ## Running
 - Dependencies will be automatically installed.
 ```
-cd Wifi-Jammer && ls
+cd wifi-jammer && ls
 
 sudo bash wifi-jammer.sh
 ```
